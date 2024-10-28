@@ -41,14 +41,14 @@ This project follows the Cookiecutter Data Science structure and includes the fo
   - `eda/` - SQL queries for exploratory data analysis
 
 - **`reports/`**: Contains project reports, visualizations, and assets.
-  - `figures/` - PNG images of the Tableau dashboards
-  - `videos/` - Videos demonstrating the Tableau dashboards
-  - `powerbi/` - Power BI workbook files and dashboards
+  - `figures/` - PNG images of the Power BI dashboard
+  - `videos/` - Videos demonstrating the Power BI dashboard
+  - `powerbi/` - Power BI workbook files and dashboard
 
 - **`README.md`**: This file.
 
 ## Data Cleaning and EDA
-Data cleaning and exploratory data analysis were performed using SQL to prepare the data for visualization. Each dataset was processed to ensure consistency, accuracy, and relevancy before being imported into Tableau for visualization.
+Data cleaning and exploratory data analysis were performed using SQL to prepare the data for visualization. Each dataset was processed to ensure consistency, accuracy, and relevancy before being imported into Power BI for visualization.
 
 ## Visualizations
 Interactive dashboards were created using Tableau to visualize key insights. The following dashboard elements are included:
@@ -75,4 +75,4 @@ Nikhil Sreenivasan
 
 ## Dependencies
 - **MySQL**: For data cleaning and EDA.
-- **Tableau**: For data visualization.
+- **Power BI**: For data visualization.
