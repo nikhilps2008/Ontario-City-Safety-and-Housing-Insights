@@ -64,6 +64,7 @@ Interactive dashboards were created using Tableau to visualize key insights. The
 ![Ontario City Safety and Housing Insights](reports/figures/Ontario_City_Safety_and_Housing_Insights_Dashboard.png)
 
 **Dashboard Demo**:
+
 https://github.com/user-attachments/assets/80c7e78e-e82f-4e01-8210-f60c826ddfe0
 
 ## Conclusion
