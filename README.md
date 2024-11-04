@@ -65,7 +65,7 @@ Interactive dashboards were created using Tableau to visualize key insights. The
 
 **Dashboard Demo**:
 
-https://github.com/user-attachments/assets/80c7e78e-e82f-4e01-8210-f60c826ddfe0
+https://github.com/user-attachments/assets/31daf4ee-6f83-4a60-a01f-3851901c99f3
 
 ## Conclusion
 This project provides valuable insights into safety and housing trends in Ontario cities. By visualizing crime, accident, and rental data, the dashboards offer an interactive way to explore trends and identify potential areas for improvement. The findings can assist urban planners and policymakers in understanding the interconnections between public safety and housing affordability across the province.
